@@ -7,5 +7,12 @@
 
 ---
 
+## ☕ Buy Me a Coffee
+If you find my content helpful, consider buying me a coffee!
+
+**EVM Address:** `0x028c513632a4bf7d8cc6d17e18bcb342b6f90e97`
+
+---
+
 ## My GitHub Stats and Top Languages
 ![AirdropInsiders's github stats](https://github-readme-stats.vercel.app/api?username=airdropinsiders&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airdropinsiders&layout=donut&theme=tokyonight&show_icons=true)
